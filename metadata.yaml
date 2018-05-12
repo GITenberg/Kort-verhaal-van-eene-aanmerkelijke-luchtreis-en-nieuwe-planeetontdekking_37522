@@ -1,0 +1,30 @@
+_repo: Kort-verhaal-van-eene-aanmerkelijke-luchtreis-en-nieuwe-planeetontdekking_37522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bilderdijk, Willem
+    alias: Bilderdyk, Willem
+    birthdate: 1756
+    deathdate: 1831
+    gutenberg_agent_id: '2764'
+    url: http://www.gutenberg.org/2009/agents/2764
+    wikipedia: http://en.wikipedia.org/wiki/Willem_Bilderdijk
+description: ''
+gutenberg_issued: '2011-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37522'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Air travel -- Fiction'
+title: Kort verhaal van eene aanmerkelijke luchtreis en nieuwe planeetontdekking
+url: http://www.gutenberg.org/ebooks/37522
